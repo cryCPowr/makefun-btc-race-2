@@ -40,3 +40,12 @@ clock, no network.
 Robustness check on the previous race's dev window (flat, 4.1% range):
 **$0.00, 0 trades** — the bot stays out of flat markets instead of bleeding
 on chop.
+
+## Live race result
+
+- **Net PnL: −$6.79** (rank 232 of 612, no prize)
+- The deep-dip arm never fired — no −2% drop came in the live window.
+- Dev PnL (+$41.45) did not predict live PnL.
+
+
+
